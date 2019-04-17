@@ -1,13 +1,13 @@
 # QueryList
 
-#####1. What is QueryList?<br/>
+##### 1. What is QueryList?<br/>
 QueryList is a Mongo Style Queryable Python List.
 
-#####2. What are the uses of QueryList?<br/>
+##### 2. What are the uses of QueryList?<br/>
 Imagine the trivial nature of python list manipulation combined with 
 powerful query feature of mongo with persist support. Voila - QueryList
 
-#####3. What are the features supported by QueryList?<br/>
+##### 3. What are the features supported by QueryList?<br/>
 - Order of Insertion 
 - Append, Pop, Remove methods of List
 - del, += operation in python
