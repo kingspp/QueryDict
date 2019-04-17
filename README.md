@@ -4,7 +4,7 @@
 QueryList is a Mongo Style Queryable Python List.
 
 ##### 2. What are the uses of QueryList?<br/>
-Imagine the trivial nature of python list manipulation combined with 
+Imagine the simple nature of python list manipulation combined with <br>
 powerful query feature of mongo with persist support. Voila - QueryList
 
 ##### 3. What are the features supported by QueryList?<br/>
